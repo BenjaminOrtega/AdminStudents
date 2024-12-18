@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: AdminStudents
+server:
+  port: 8084
+file:
+  path: "C:\\"
+  name: "students.txt"
